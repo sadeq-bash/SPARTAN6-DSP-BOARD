@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=CONNECTORS.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=CONNECTORS2.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=MEMORY.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=MODULES.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=POWER.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=spartan6-0.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=spartan6-1.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=spartan6-2.SchDoc|SheetNumber=3

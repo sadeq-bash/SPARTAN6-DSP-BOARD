@@ -1,0 +1,146 @@
+Added Component: Designator=R10(RESC2013X60X35ML10T20)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 5, 10/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-11
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-11
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=VCC Pin=R10-1
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=U3-12
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=NetJ6_4 Pin=U3-11
+Added Net: Name=NetJ6_4
+Added Pin To Net: NetName=NetJ6_5 Pin=J6-5
+Added Pin To Net: NetName=NetJ6_5 Pin=U3-9
+Added Net: Name=NetJ6_5
+Added Pin To Net: NetName=NetJ6_6 Pin=J6-6
+Added Pin To Net: NetName=NetJ6_6 Pin=U3-8
+Added Net: Name=NetJ6_6
+Added Pin To Net: NetName=NetJ6_7 Pin=J6-7
+Added Pin To Net: NetName=NetJ6_7 Pin=U3-6
+Added Net: Name=NetJ6_7
+Added Pin To Net: NetName=NetJ6_8 Pin=J6-8
+Added Pin To Net: NetName=NetJ6_8 Pin=U3-5
+Added Net: Name=NetJ6_8
+Added Pin To Net: NetName=NetJ6_9 Pin=J6-9
+Added Pin To Net: NetName=NetJ6_9 Pin=U3-3
+Added Net: Name=NetJ6_9
+Added Pin To Net: NetName=NetJ6_10 Pin=J6-10
+Added Pin To Net: NetName=NetJ6_10 Pin=U3-2
+Added Net: Name=NetJ6_10
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Pin To Net: NetName=NetJ7_3 Pin=U3-23
+Added Net: Name=NetJ7_3
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_4 Pin=U3-22
+Added Net: Name=NetJ7_4
+Added Pin To Net: NetName=NetJ7_5 Pin=J7-5
+Added Pin To Net: NetName=NetJ7_5 Pin=U3-20
+Added Net: Name=NetJ7_5
+Added Pin To Net: NetName=NetJ7_6 Pin=J7-6
+Added Pin To Net: NetName=NetJ7_6 Pin=U3-19
+Added Net: Name=NetJ7_6
+Added Pin To Net: NetName=NetJ7_7 Pin=J7-7
+Added Pin To Net: NetName=NetJ7_7 Pin=U3-17
+Added Net: Name=NetJ7_7
+Added Pin To Net: NetName=NetJ7_8 Pin=J7-8
+Added Pin To Net: NetName=NetJ7_8 Pin=U3-16
+Added Net: Name=NetJ7_8
+Added Pin To Net: NetName=NetJ7_9 Pin=J7-9
+Added Pin To Net: NetName=NetJ7_9 Pin=U3-14
+Added Net: Name=NetJ7_9
+Added Pin To Net: NetName=NetJ7_10 Pin=J7-10
+Added Pin To Net: NetName=NetJ7_10 Pin=U3-13
+Added Net: Name=NetJ7_10
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U1-P19
+Added Pin To Net: NetName=NetR10_2 Pin=U3-1
+Added Pin To Net: NetName=NetR10_2 Pin=U3-24
+Added Pin To Net: NetName=NetR10_2 Pin=U3-25
+Added Pin To Net: NetName=NetR10_2 Pin=U3-48
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetU1_M16 Pin=U1-M16
+Added Pin To Net: NetName=NetU1_M16 Pin=U3-47
+Added Net: Name=NetU1_M16
+Added Pin To Net: NetName=NetU1_M17 Pin=U1-M17
+Added Pin To Net: NetName=NetU1_M17 Pin=U3-38
+Added Net: Name=NetU1_M17
+Added Pin To Net: NetName=NetU1_M18 Pin=U1-M18
+Added Pin To Net: NetName=NetU1_M18 Pin=U3-37
+Added Net: Name=NetU1_M18
+Added Pin To Net: NetName=NetU1_N15 Pin=U1-N15
+Added Pin To Net: NetName=NetU1_N15 Pin=U3-46
+Added Net: Name=NetU1_N15
+Added Pin To Net: NetName=NetU1_N16 Pin=U1-N16
+Added Pin To Net: NetName=NetU1_N16 Pin=U3-41
+Added Net: Name=NetU1_N16
+Added Pin To Net: NetName=NetU1_P16 Pin=U1-P16
+Added Pin To Net: NetName=NetU1_P16 Pin=U3-40
+Added Net: Name=NetU1_P16
+Added Pin To Net: NetName=NetU1_P17 Pin=U1-P17
+Added Pin To Net: NetName=NetU1_P17 Pin=U3-33
+Added Net: Name=NetU1_P17
+Added Pin To Net: NetName=NetU1_P18 Pin=U1-P18
+Added Pin To Net: NetName=NetU1_P18 Pin=U3-32
+Added Net: Name=NetU1_P18
+Added Pin To Net: NetName=NetU1_R15 Pin=U1-R15
+Added Pin To Net: NetName=NetU1_R15 Pin=U3-36
+Added Net: Name=NetU1_R15
+Added Pin To Net: NetName=NetU1_R16 Pin=U1-R16
+Added Pin To Net: NetName=NetU1_R16 Pin=U3-35
+Added Net: Name=NetU1_R16
+Added Pin To Net: NetName=NetU1_R17 Pin=U1-R17
+Added Pin To Net: NetName=NetU1_R17 Pin=U3-30
+Added Net: Name=NetU1_R17
+Added Pin To Net: NetName=NetU1_T17 Pin=U1-T17
+Added Pin To Net: NetName=NetU1_T17 Pin=U3-29
+Added Net: Name=NetU1_T17
+Added Pin To Net: NetName=NetU1_T18 Pin=U1-T18
+Added Pin To Net: NetName=NetU1_T18 Pin=U3-26
+Added Net: Name=NetU1_T18
+Added Pin To Net: NetName=NetU1_T19 Pin=U1-T19
+Added Pin To Net: NetName=NetU1_T19 Pin=U3-27
+Added Net: Name=NetU1_T19
+Added Pin To Net: NetName=NetU1_T20 Pin=U1-T20
+Added Pin To Net: NetName=NetU1_T20 Pin=U3-43
+Added Net: Name=NetU1_T20
+Added Pin To Net: NetName=NetU1_U19 Pin=U1-U19
+Added Pin To Net: NetName=NetU1_U19 Pin=U3-44
+Added Net: Name=NetU1_U19
+Added Member To Class: ClassName=MEMORY Member=Component R8 1k
+Added Member To Class: ClassName=MEMORY Member=Component R10 1k

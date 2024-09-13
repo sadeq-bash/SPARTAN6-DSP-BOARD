@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=clk Pin=U7-6
+Added Pin To Net: NetName=NetU1_C17 Pin=U1-C17
+Added Pin To Net: NetName=NetU1_C17 Pin=U7-5
+Added Net: Name=NetU1_C17
+Added Pin To Net: NetName=NetU1_G16 Pin=U1-G16
+Added Pin To Net: NetName=NetU1_G16 Pin=U7-1
+Added Net: Name=NetU1_G16
+Added Pin To Net: NetName=NetU1_H14 Pin=U1-H14
+Added Pin To Net: NetName=NetU1_H14 Pin=U7-2
+Added Net: Name=NetU1_H14

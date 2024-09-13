@@ -1,0 +1,8 @@
+Added Component: Designator=D3(FP-SMLE13WBC8W1-MFG)
+Added Component: Designator=R11(RESC2013X60X35ML10T20)
+Add Pin To Net: Unknown Pin: Pin R11-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=U1-AB21
+Added Net: Name=NetD3_2
+Add Class Member: Failed to add class member : Component D3 SMLE13WBC8W1
+Add Class Member: Failed to add class member : Component R11 1k

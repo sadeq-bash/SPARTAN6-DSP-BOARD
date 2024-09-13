@@ -1,0 +1,53 @@
+Change Component Footprint: Designator=J4 Old Footprint=68611214122 New Footprint=68611214122
+Change Component Footprint: Designator=J5 Old Footprint=68611214122 New Footprint=68611214122
+Change Component Footprint: Designator=J6 Old Footprint=68611214122 New Footprint=68611214122
+Change Component Footprint: Designator=J7 Old Footprint=68611214122 New Footprint=68611214122
+Change Component Footprint: Designator=P1 Old Footprint=662002231822 New Footprint=662002231822
+Added Pin To Net: NetName=NetU1_AB4 Pin=U1-AB4
+Added Pin To Net: NetName=NetU1_AB4 Pin=U10-12
+Added Net: Name=NetU1_AB4
+Added Pin To Net: NetName=NetU1_AB5 Pin=U1-AB5
+Added Pin To Net: NetName=NetU1_AB5 Pin=U10-13
+Added Net: Name=NetU1_AB5
+Added Pin To Net: NetName=NetU1_AB6 Pin=U1-AB6
+Added Pin To Net: NetName=NetU1_AB6 Pin=U10-5
+Added Net: Name=NetU1_AB6
+Added Pin To Net: NetName=NetU1_AB7 Pin=U1-AB7
+Added Pin To Net: NetName=NetU1_AB7 Pin=U10-6
+Added Net: Name=NetU1_AB7
+Added Pin To Net: NetName=NetU1_AB8 Pin=U1-AB8
+Added Pin To Net: NetName=NetU1_AB8 Pin=U10-18
+Added Net: Name=NetU1_AB8
+Added Pin To Net: NetName=NetU1_AB9 Pin=U1-AB9
+Added Pin To Net: NetName=NetU1_AB9 Pin=U10-19
+Added Net: Name=NetU1_AB9
+Added Pin To Net: NetName=NetU1_AB10 Pin=U1-AB10
+Added Pin To Net: NetName=NetU1_AB10 Pin=U10-20
+Added Net: Name=NetU1_AB10
+Added Pin To Net: NetName=NetU1_AB11 Pin=U1-AB11
+Added Pin To Net: NetName=NetU1_AB11 Pin=U10-21
+Added Net: Name=NetU1_AB11
+Added Pin To Net: NetName=NetU1_AB12 Pin=U1-AB12
+Added Pin To Net: NetName=NetU1_AB12 Pin=U10-22
+Added Net: Name=NetU1_AB12
+Added Pin To Net: NetName=NetU1_AB13 Pin=U1-AB13
+Added Pin To Net: NetName=NetU1_AB13 Pin=U10-23
+Added Net: Name=NetU1_AB13
+Added Pin To Net: NetName=NetU1_AB14 Pin=U1-AB14
+Added Pin To Net: NetName=NetU1_AB14 Pin=U10-16
+Added Net: Name=NetU1_AB14
+Added Pin To Net: NetName=NetU1_AB15 Pin=U1-AB15
+Added Pin To Net: NetName=NetU1_AB15 Pin=U10-26
+Added Net: Name=NetU1_AB15
+Added Pin To Net: NetName=NetU1_AB16 Pin=U1-AB16
+Added Pin To Net: NetName=NetU1_AB16 Pin=U10-27
+Added Net: Name=NetU1_AB16
+Added Pin To Net: NetName=NetU1_AB17 Pin=U1-AB17
+Added Pin To Net: NetName=NetU1_AB17 Pin=U10-8
+Added Net: Name=NetU1_AB17
+Added Pin To Net: NetName=NetU1_AB18 Pin=U1-AB18
+Added Pin To Net: NetName=NetU1_AB18 Pin=U10-30
+Added Net: Name=NetU1_AB18
+Added Pin To Net: NetName=NetU1_AB19 Pin=U1-AB19
+Added Pin To Net: NetName=NetU1_AB19 Pin=U10-31
+Added Net: Name=NetU1_AB19

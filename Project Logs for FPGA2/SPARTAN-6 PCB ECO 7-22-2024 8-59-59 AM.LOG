@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=clk Pin=J3-A5
+Added Pin To Net: NetName=clk Pin=J3-B5
+Added Pin To Net: NetName=clk Pin=U1-A10
+Added Pin To Net: NetName=clk Pin=U1-A12
+Added Pin To Net: NetName=clk Pin=U1-C11
+Added Pin To Net: NetName=clk Pin=U1-E12
+Added Pin To Net: NetName=clk Pin=U1-V17
+Added Pin To Net: NetName=clk Pin=U1-Y20
+Added Pin To Net: NetName=U0_N Pin=J3-A6
+Added Pin To Net: NetName=U0_N Pin=U1-A6
+Added Net: Name=U0_N
+Added Pin To Net: NetName=U0_P Pin=J3-A7
+Added Pin To Net: NetName=U0_P Pin=U1-B6
+Added Net: Name=U0_P
+Added Pin To Net: NetName=U1_N Pin=J3-B7
+Added Pin To Net: NetName=U1_N Pin=U1-A8
+Added Net: Name=U1_N
+Added Pin To Net: NetName=U1_P Pin=J3-B6
+Added Pin To Net: NetName=U1_P Pin=U1-B8
+Added Net: Name=U1_P

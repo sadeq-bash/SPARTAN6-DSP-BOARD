@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetJ5_9 Pin=U1-A18
+Removed Pin From Net: NetName=NetJ5_7 Pin=U1-A19
+Removed Pin From Net: NetName=NetJ5_5 Pin=U1-A20
+Removed Pin From Net: NetName=NetJ5_10 Pin=U1-B18
+Removed Pin From Net: NetName=NetJ5_6 Pin=U1-B20
+Removed Pin From Net: NetName=NetJ5_3 Pin=U1-C18
+Removed Pin From Net: NetName=NetJ5_8 Pin=U1-C19
+Removed Pin From Net: NetName=NetJ5_4 Pin=U1-D17
+Removed Pin From Net: NetName=NetJ5_10 Pin=U5-11
+Removed Pin From Net: NetName=NetJ5_9 Pin=U5-12
+Removed Pin From Net: NetName=NetJ5_8 Pin=U5-13
+Removed Pin From Net: NetName=NetJ5_7 Pin=U5-15
+Removed Pin From Net: NetName=NetJ5_6 Pin=U5-16
+Removed Pin From Net: NetName=NetJ5_5 Pin=U5-17
+Removed Pin From Net: NetName=NetJ5_4 Pin=U5-18
+Removed Pin From Net: NetName=NetJ5_3 Pin=U5-19
+Added Pin To Net: NetName=NetJ5_4 Pin=U1-A18
+Added Pin To Net: NetName=NetJ5_6 Pin=U1-A19
+Added Pin To Net: NetName=NetJ5_8 Pin=U1-A20
+Added Pin To Net: NetName=NetJ5_3 Pin=U1-B18
+Added Pin To Net: NetName=NetJ5_7 Pin=U1-B20
+Added Pin To Net: NetName=NetJ5_10 Pin=U1-C18
+Added Pin To Net: NetName=NetJ5_5 Pin=U1-C19
+Added Pin To Net: NetName=NetJ5_9 Pin=U1-D17
+Added Pin To Net: NetName=NetJ5_3 Pin=U5-11
+Added Pin To Net: NetName=NetJ5_4 Pin=U5-12
+Added Pin To Net: NetName=NetJ5_5 Pin=U5-13
+Added Pin To Net: NetName=NetJ5_6 Pin=U5-15
+Added Pin To Net: NetName=NetJ5_7 Pin=U5-16
+Added Pin To Net: NetName=NetJ5_8 Pin=U5-17
+Added Pin To Net: NetName=NetJ5_9 Pin=U5-18
+Added Pin To Net: NetName=NetJ5_10 Pin=U5-19
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=MEMORY Member=Component R? 1k
+Added Member To Class: ClassName=MEMORY Member=Component R? 1k
+Added Member To Class: ClassName=MEMORY Member=Component R? 1k
+Added Member To Class: ClassName=MEMORY Member=Component R? 1k
+Added Member To Class: ClassName=MEMORY Member=Component R? 1k

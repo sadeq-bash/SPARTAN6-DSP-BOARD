@@ -1,0 +1,41 @@
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=0_N Pin=J1-3
+Added Pin To Net: NetName=0_N Pin=U1-C22
+Added Net: Name=0_N
+Added Pin To Net: NetName=0_P Pin=J1-1
+Added Pin To Net: NetName=0_P Pin=U1-B22
+Added Net: Name=0_P
+Added Pin To Net: NetName=1_N Pin=J1-6
+Added Pin To Net: NetName=1_N Pin=U1-E22
+Added Net: Name=1_N
+Added Pin To Net: NetName=1_P Pin=J1-4
+Added Pin To Net: NetName=1_P Pin=U1-D22
+Added Net: Name=1_P
+Added Pin To Net: NetName=2_N Pin=J1-9
+Added Pin To Net: NetName=2_N Pin=U1-G22
+Added Net: Name=2_N
+Added Pin To Net: NetName=2_P Pin=J1-7
+Added Pin To Net: NetName=2_P Pin=U1-F22
+Added Net: Name=2_P
+Added Pin To Net: NetName=3_N Pin=J1-12
+Added Pin To Net: NetName=3_N Pin=U1-J22
+Added Net: Name=3_N
+Added Pin To Net: NetName=3_P Pin=J1-10
+Added Pin To Net: NetName=3_P Pin=U1-H22
+Added Net: Name=3_P
+Added Pin To Net: NetName=AUX_N Pin=J1-17
+Added Pin To Net: NetName=AUX_N Pin=U1-L22
+Added Net: Name=AUX_N
+Added Pin To Net: NetName=AUX_P Pin=J1-15
+Added Pin To Net: NetName=AUX_P Pin=U1-K22
+Added Net: Name=AUX_P
+Added Differential Pair: Name=0
+Added Differential Pair: Name=1
+Added Differential Pair: Name=2
+Added Differential Pair: Name=3
+Added Differential Pair: Name=AUX
